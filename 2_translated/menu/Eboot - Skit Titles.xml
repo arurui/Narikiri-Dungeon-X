@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>1742096</PointerOffset>
       <JapaneseText>どっちが上か</JapaneseText>
-      <EnglishText>Who's older?</EnglishText>
+      <EnglishText>Who's the Eldest?</EnglishText>
       <Notes>The meaning is generally something like that.</Notes>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -29,7 +29,7 @@
     <Entry>
       <PointerOffset>1742120</PointerOffset>
       <JapaneseText>ずっと探してた</JapaneseText>
-      <EnglishText>I was looking for you.</EnglishText>
+      <EnglishText>A Long Search</EnglishText>
       <Notes>The idea of the title is (I think) that Ethos reminicses on trying to make/find friends. Given he has friends now in the skit, I titled it as such.</Notes>
       <Id>4</Id>
       <Status>Editing</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>1742144</PointerOffset>
       <JapaneseText>エトスはみんなのお母さん</JapaneseText>
-      <EnglishText>Ethos the mother hen.</EnglishText>
+      <EnglishText>Ethos is Everyone's Mom</EnglishText>
       <Notes>Took a fun liberty with it, but the idea is Ethos is maternal.</Notes>
       <Id>6</Id>
       <Status>Editing</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>1742168</PointerOffset>
       <JapaneseText>メルメルは悪くない、悪いのは…</JapaneseText>
-      <EnglishText>It's not MelMel's fault. Rather...</EnglishText>
+      <EnglishText>Not Melmel's Fault, But Whose?</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Editing</Status>
@@ -77,10 +77,10 @@
     <Entry>
       <PointerOffset>1742192</PointerOffset>
       <JapaneseText>アルベルトはここにいる</JapaneseText>
-      <EnglishText>Albert is here</EnglishText>
+      <EnglishText>Albert's Here</EnglishText>
       <Notes>Unused</Notes>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1742196</PointerOffset>
@@ -93,7 +93,7 @@
     <Entry>
       <PointerOffset>1742216</PointerOffset>
       <JapaneseText>あの仮面のヤツ</JapaneseText>
-      <EnglishText>That masked guy.</EnglishText>
+      <EnglishText>That Guy with the Mask</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Editing</Status>
@@ -109,7 +109,7 @@
     <Entry>
       <PointerOffset>1742240</PointerOffset>
       <JapaneseText>クルールってなんて生物</JapaneseText>
-      <EnglishText>Just was IS Kruelle?</EnglishText>
+      <EnglishText>What Kind of Creature IS Couleur?</EnglishText>
       <Notes>Feel free to change the name if Kruelle isn't it.</Notes>
       <Id>14</Id>
       <Status>Editing</Status>
@@ -125,7 +125,7 @@
     <Entry>
       <PointerOffset>1742264</PointerOffset>
       <JapaneseText>回復する力</JapaneseText>
-      <EnglishText>The Power to Heal</EnglishText>
+      <EnglishText>Healing Powers</EnglishText>
       <Notes/>
       <Id>16</Id>
       <Status>Editing</Status>
@@ -141,7 +141,7 @@
     <Entry>
       <PointerOffset>1742288</PointerOffset>
       <JapaneseText>太陽の絵</JapaneseText>
-      <EnglishText>The painting of the sun</EnglishText>
+      <EnglishText>A Painting of the Sun</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>Editing</Status>
@@ -157,7 +157,7 @@
     <Entry>
       <PointerOffset>1742312</PointerOffset>
       <JapaneseText>こいつはくせぇ</JapaneseText>
-      <EnglishText>He stinks.</EnglishText>
+      <EnglishText>This Smelly Brat</EnglishText>
       <Notes/>
       <Id>20</Id>
       <Status>Editing</Status>
@@ -173,7 +173,7 @@
     <Entry>
       <PointerOffset>1742336</PointerOffset>
       <JapaneseText>しっかりしなさい</JapaneseText>
-      <EnglishText>Get a grip!</EnglishText>
+      <EnglishText>Politeness</EnglishText>
       <Notes/>
       <Id>22</Id>
       <Status>Editing</Status>
@@ -189,7 +189,7 @@
     <Entry>
       <PointerOffset>1742360</PointerOffset>
       <JapaneseText>ソーサラーリング怖い</JapaneseText>
-      <EnglishText>The Sorcerer ring scares me</EnglishText>
+      <EnglishText>This Ring's Pretty Scary</EnglishText>
       <Notes/>
       <Id>24</Id>
       <Status>Editing</Status>
@@ -221,7 +221,7 @@
     <Entry>
       <PointerOffset>1742408</PointerOffset>
       <JapaneseText>傷だらけの少年</JapaneseText>
-      <EnglishText>Scarred boy</EnglishText>
+      <EnglishText>Rough and Tumble</EnglishText>
       <Notes/>
       <Id>28</Id>
       <Status>Editing</Status>
@@ -237,7 +237,7 @@
     <Entry>
       <PointerOffset>1742432</PointerOffset>
       <JapaneseText>メルの暗黒面</JapaneseText>
-      <EnglishText>Mel's dark side</EnglishText>
+      <EnglishText>The Dark Side of Mel</EnglishText>
       <Notes/>
       <Id>30</Id>
       <Status>Editing</Status>
@@ -253,7 +253,7 @@
     <Entry>
       <PointerOffset>1742456</PointerOffset>
       <JapaneseText>エトスの天敵</JapaneseText>
-      <EnglishText>Ethos' natural enemy</EnglishText>
+      <EnglishText>Ethos's Main Villain</EnglishText>
       <Notes/>
       <Id>32</Id>
       <Status>Editing</Status>
@@ -269,8 +269,8 @@
     <Entry>
       <PointerOffset>1742480</PointerOffset>
       <JapaneseText>ロディたんにご挨拶</JapaneseText>
-      <EnglishText>Say hello to Rody!</EnglishText>
-      <Notes/>
+      <EnglishText>Say Hello to Rody</EnglishText>
+      <Notes>stopped here, need to take another look at this one</Notes>
       <Id>34</Id>
       <Status>Editing</Status>
     </Entry>
