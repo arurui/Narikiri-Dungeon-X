@@ -20,7 +20,7 @@
     <Entry>
       <PointerOffset>876</PointerOffset>
       <JapaneseText>食材屋 ベジット</JapaneseText>
-      <EnglishText>Greengrocer - Veggie</EnglishText>
+      <EnglishText>Grocery Store - Veggie</EnglishText>
       <Notes/>
       <Id>5031</Id>
       <Status>Editing</Status>
@@ -124,7 +124,7 @@
     <Entry>
       <PointerOffset>2984,3852</PointerOffset>
       <JapaneseText>食材屋 あじおう</JapaneseText>
-      <EnglishText>Food Shop - Flavor King</EnglishText>
+      <EnglishText>Grocery Store - Flavor King</EnglishText>
       <Notes>Needs TL check</Notes>
       <Id>5044</Id>
       <Status>Editing</Status>
