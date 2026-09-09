@@ -104,7 +104,7 @@ out which one of us is faster.</EnglishText>
       <JapaneseText>んだよ！　みんなノリわりーな！
 見ろよ、このカウボーイハット！　かっこいいだろ！</JapaneseText>
       <EnglishText>What the hell! Why won't you guys play along!?
-I'm even wearing my cowboy hat! And it's so cool!</EnglishText>
+I'm even wearing my cowboy hat! I look so cool!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -125,8 +125,8 @@ I'm even wearing my cowboy hat! And it's so cool!</EnglishText>
       <VoiceId>&lt;audio:VCT_004_160_009&gt;</VoiceId>
       <JapaneseText>男なら、カウボーイハットとくれば
 言ってみたくなるセリフってもんがあるだろ！</JapaneseText>
-      <EnglishText>Wearing this hat, fighting in a real
-duel... It's every man's dream, right!?</EnglishText>
+      <EnglishText>Wearing a hat like this and fighting in a
+real duel is every man's dream, right!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -156,7 +156,7 @@ duel... It's every man's dream, right!?</EnglishText>
       <PointerOffset>46536</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_160_012&gt;</VoiceId>
       <JapaneseText>腹減っただな</JapaneseText>
-      <EnglishText>And I'm hungry.</EnglishText>
+      <EnglishText>I'm hungry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>

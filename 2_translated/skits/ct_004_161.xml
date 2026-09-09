@@ -25,7 +25,7 @@
       <PointerOffset>46040</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_161_000&gt;</VoiceId>
       <JapaneseText>ぐぁあっ！　無理だ！</JapaneseText>
-      <EnglishText>Guh...! This sucks!</EnglishText>
+      <EnglishText>Augh! This sucks!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -101,7 +101,7 @@ There are nice things about crabs, too.</EnglishText>
       <PointerOffset>46732</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_161_007&gt;</VoiceId>
       <JapaneseText>は？　いいとこ？　んなもんねーって！</JapaneseText>
-      <EnglishText>"Nice," huh? Yeah, right!</EnglishText>
+      <EnglishText>"Nice," huh...? Yeah, right!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -157,7 +157,7 @@ at all, and can take the hits head-on.</EnglishText>
       <JapaneseText>だめだ！
 やっぱもどかしくてたまんねーっ！</JapaneseText>
       <EnglishText>It sucks! And it's annoying!
-And I can't stand it!</EnglishText>
+And I just can't stand it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
