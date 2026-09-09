@@ -238,10 +238,10 @@ to the top of the tower.
     <Entry>
       <PointerOffset>2088980</PointerOffset>
       <JapaneseText>ピンクの髪の女の子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Pink-Haired Girl</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2088984</PointerOffset>
@@ -254,10 +254,19 @@ to the top of the tower.
 　なんとそれは昔、魔王って人を倒したスゴ
 イ人、アーチェさんだったみたいです。わた
 しはよく知らないけど（汗）。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We arrived at the top of &lt;Red&gt;Glimmer Spire&lt;DarkBlue&gt;,
+where we found the witch's home-made Miracle...
+Umm...well, Miracle-something doll, which we
+battled.
+   After defeating it, the witch herself appeared
+before us, and...
+   It seems she's actually the great hero &lt;Arche&gt;,
+who helped defeat the "Demon King" long ago.
+Though...honestly...I've never actually heard of either
+of them.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2088988</PointerOffset>
@@ -269,18 +278,26 @@ to the top of the tower.
 　本当に２００年前なんか行けるの？　なん
 だかよくわかんないまま、わたしたち、とり
 あえず、&lt;Red&gt;エトスハウス&lt;DarkBlue&gt;に帰ります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   But, Arche didn't seem to know anything about
+&lt;Red&gt;Valhalla&lt;DarkBlue&gt; or the Prism Ring.
+   Instead, she said, "If you go back 200 years and
+meet the Spirits, maybe they can help?" And then
+gave us a...magical, time-traveling painting...
+just like that...
+   Can a painting really take us back 200 years...?
+Well, anyway, we're not sure what to do next, so
+for now, we're going back to &lt;Red&gt;Ethos's House&lt;DarkBlue&gt;.</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089008</PointerOffset>
       <JapaneseText>召喚術士さんに会いに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Going to Meet the Summoner</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089012</PointerOffset>
@@ -293,10 +310,16 @@ to the top of the tower.
 　過去に来ちゃったのかな？　クラースさん
 がいるっていう&lt;Red&gt;ユークリッド村&lt;DarkBlue&gt;に行ってみれ
 ばわかるかも。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   The painting Arche gave us is a very lively
+Painting of the Sun, so... that's what we'll call it!
+Anyway, we took it with us to &lt;Red&gt;Ethos's House&lt;DarkBlue&gt;,
+and—like Arche said—we made a wish in front
+of it, and now everything seems... strange?
+   Are we in the past now? Well, if we try going
+to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089016</PointerOffset>
@@ -307,18 +330,22 @@ to the top of the tower.
 
 　追記。覚え書き〔重要〕　戦い方はバトル
 メモを見ること。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   But... What if it worked?
+   I guess it would be worse if it didn't...?
+   ...Anyway! Let's go to &lt;Red&gt;Euclid&lt;DarkBlue&gt;.
+
+   P.S.: Check the Battle Memo for tips!</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089036</PointerOffset>
       <JapaneseText>クラースさんのこと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klarth</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089040</PointerOffset>
