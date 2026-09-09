@@ -61,7 +61,7 @@
       <PointerOffset>50812</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_002&gt;</VoiceId>
       <JapaneseText>よしなよ、&lt;Dio&gt;、みっともない</JapaneseText>
-      <EnglishText>C'mon, &lt;Dio&gt;, don't be crude.</EnglishText>
+      <EnglishText>C'mon, &lt;Dio&gt;, don't be crude!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -83,7 +83,7 @@ Money's what I'm all about!</EnglishText>
       <PointerOffset>51012</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_004&gt;</VoiceId>
       <JapaneseText>……いつもとそんなにかわらないじゃない</JapaneseText>
-      <EnglishText>...You're usually kind of like this, though.</EnglishText>
+      <EnglishText>...You're usually kind of like this, though...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -113,7 +113,7 @@ Money's what I'm all about!</EnglishText>
       <PointerOffset>51264</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_007&gt;</VoiceId>
       <JapaneseText>ちょっ、エト……！　目そらすなよ！</JapaneseText>
-      <EnglishText>Dammit, &lt;Ethos&gt;! Don't turn away!</EnglishText>
+      <EnglishText>Dammit, &lt;Ethos&gt;! No running away!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -145,7 +145,7 @@ Money's what I'm all about!</EnglishText>
       <JapaneseText>ほら、&lt;Couleur&gt;もこう言ってんぞ。
 盗賊のオレの目にくるいはねーぜ！</JapaneseText>
       <EnglishText>See? &lt;Couleur&gt;'s got my back. &lt;Dio&gt;
-the Thief's the best judge there is!</EnglishText>
+the Thief's the best judge there is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -155,8 +155,8 @@ the Thief's the best judge there is!</EnglishText>
       <PointerOffset>51648</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_011&gt;</VoiceId>
       <JapaneseText>……そのでまかせっぷりが盗賊っぽいよね</JapaneseText>
-      <EnglishText>...The way you mouth
-off is kind of thief-ish.</EnglishText>
+      <EnglishText>...The way you run your
+mouth is kind of thief-ish...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -178,7 +178,7 @@ man whose life is that of a single star, blazing in the sky!</EnglishText>
       <PointerOffset>51860</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_013&gt;</VoiceId>
       <JapaneseText>……意味わかんないよ</JapaneseText>
-      <EnglishText>...I don't know what that means.</EnglishText>
+      <EnglishText>I...don't know what that means...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -212,7 +212,7 @@ Normal &lt;Dio&gt;'s also greedy. And that's okay.</EnglishText>
       <JapaneseText>はーい
 は～い……ん？？？</JapaneseText>
       <EnglishText>Okaaay.
-Okaa—wait...</EnglishText>
+Okaa—huh...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
