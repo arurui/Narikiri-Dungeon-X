@@ -253,7 +253,7 @@
     <Entry>
       <PointerOffset>1742456</PointerOffset>
       <JapaneseText>エトスの天敵</JapaneseText>
-      <EnglishText>Ethos's Antagonists</EnglishText>
+      <EnglishText>Ethos's Enemies</EnglishText>
       <Notes/>
       <Id>32</Id>
       <Status>Editing</Status>
@@ -285,7 +285,7 @@
     <Entry>
       <PointerOffset>1742504</PointerOffset>
       <JapaneseText>なんでもなれる『なりきり士』</JapaneseText>
-      <EnglishText>The "Narrator" who can be anything</EnglishText>
+      <EnglishText>Roleplayers Can Do Anything</EnglishText>
       <Notes/>
       <Id>36</Id>
       <Status>Editing</Status>
@@ -301,7 +301,7 @@
     <Entry>
       <PointerOffset>1742528</PointerOffset>
       <JapaneseText>ミラルドさんって誰なの？</JapaneseText>
-      <EnglishText>Who is Ms. Milard?</EnglishText>
+      <EnglishText>So, Mirald Is...?</EnglishText>
       <Notes/>
       <Id>38</Id>
       <Status>Editing</Status>
@@ -317,7 +317,7 @@
     <Entry>
       <PointerOffset>1742552</PointerOffset>
       <JapaneseText>200年後の魔法少女</JapaneseText>
-      <EnglishText>Magical Girl 200 years later</EnglishText>
+      <EnglishText>The 200-Year-Old Magical Girl</EnglishText>
       <Notes/>
       <Id>40</Id>
       <Status>Editing</Status>
@@ -333,7 +333,7 @@
     <Entry>
       <PointerOffset>1742576</PointerOffset>
       <JapaneseText>おしえてディオ</JapaneseText>
-      <EnglishText>Tell me, Dio</EnglishText>
+      <EnglishText>Historian Dio</EnglishText>
       <Notes/>
       <Id>42</Id>
       <Status>Editing</Status>
@@ -365,7 +365,7 @@
     <Entry>
       <PointerOffset>1742624</PointerOffset>
       <JapaneseText>精霊晶核って何？</JapaneseText>
-      <EnglishText>What is a Spirit Crystal Nucleus?</EnglishText>
+      <EnglishText>What Is An "Atomism Core," Anyway?</EnglishText>
       <Notes/>
       <Id>46</Id>
       <Status>Editing</Status>
@@ -381,7 +381,7 @@
     <Entry>
       <PointerOffset>1742648</PointerOffset>
       <JapaneseText>アルベルトの秘密1</JapaneseText>
-      <EnglishText>Albert's Secret 1</EnglishText>
+      <EnglishText>The Secrets of Albert, Part 1</EnglishText>
       <Notes/>
       <Id>48</Id>
       <Status>Editing</Status>
@@ -397,7 +397,7 @@
     <Entry>
       <PointerOffset>1742672</PointerOffset>
       <JapaneseText>エトがいなくて……</JapaneseText>
-      <EnglishText>Missing Ethos ......</EnglishText>
+      <EnglishText>Ethos Is Gone...</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>Editing</Status>
@@ -413,7 +413,7 @@
     <Entry>
       <PointerOffset>1742696</PointerOffset>
       <JapaneseText>エトス奪還作戦</JapaneseText>
-      <EnglishText>Operation to Retrieve Ethos</EnglishText>
+      <EnglishText>Operation: Ethos Liberation</EnglishText>
       <Notes/>
       <Id>52</Id>
       <Status>Editing</Status>
@@ -429,7 +429,7 @@
     <Entry>
       <PointerOffset>1742720</PointerOffset>
       <JapaneseText>ノームの混乱</JapaneseText>
-      <EnglishText>Gnome's confusion</EnglishText>
+      <EnglishText>The Mayhem of Gnome</EnglishText>
       <Notes/>
       <Id>54</Id>
       <Status>Editing</Status>
@@ -445,10 +445,10 @@
     <Entry>
       <PointerOffset>1742744</PointerOffset>
       <JapaneseText>バジルの挨拶</JapaneseText>
-      <EnglishText>バジルの挨拶</EnglishText>
+      <EnglishText>Say Hello to Basil</EnglishText>
       <Notes>Unused</Notes>
       <Id>56</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1742748</PointerOffset>
@@ -461,7 +461,7 @@
     <Entry>
       <PointerOffset>1742768</PointerOffset>
       <JapaneseText>なんで逃げなかったの？</JapaneseText>
-      <EnglishText>Why didn't you run away?</EnglishText>
+      <EnglishText>Why Couldn't You Escape?</EnglishText>
       <Notes/>
       <Id>58</Id>
       <Status>Editing</Status>
@@ -477,7 +477,7 @@
     <Entry>
       <PointerOffset>1742792</PointerOffset>
       <JapaneseText>貧しいヴァルハラ村</JapaneseText>
-      <EnglishText>Poor Valhalla village</EnglishText>
+      <EnglishText>The Poverty of Valhalla</EnglishText>
       <Notes/>
       <Id>60</Id>
       <Status>Editing</Status>
@@ -493,7 +493,7 @@
     <Entry>
       <PointerOffset>1742816</PointerOffset>
       <JapaneseText>ケンカするふたり</JapaneseText>
-      <EnglishText>The Two of Us Fighting</EnglishText>
+      <EnglishText>The Twins At Odds</EnglishText>
       <Notes/>
       <Id>62</Id>
       <Status>Editing</Status>
@@ -509,7 +509,7 @@
     <Entry>
       <PointerOffset>1742840</PointerOffset>
       <JapaneseText>なんにでもなれる</JapaneseText>
-      <EnglishText>I can be anything I want to be</EnglishText>
+      <EnglishText>I Can Do Anything</EnglishText>
       <Notes/>
       <Id>64</Id>
       <Status>Editing</Status>
@@ -525,10 +525,10 @@
     <Entry>
       <PointerOffset>1742864</PointerOffset>
       <JapaneseText>いいぞいいぞ</JapaneseText>
-      <EnglishText>Good job!</EnglishText>
+      <EnglishText>Well Done!</EnglishText>
       <Notes>Unused</Notes>
       <Id>66</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1742868</PointerOffset>
@@ -541,7 +541,7 @@
     <Entry>
       <PointerOffset>1742888</PointerOffset>
       <JapaneseText>丁寧に扱え</JapaneseText>
-      <EnglishText>Treat them with care</EnglishText>
+      <EnglishText>High Maintenance</EnglishText>
       <Notes/>
       <Id>68</Id>
       <Status>Editing</Status>
@@ -557,7 +557,7 @@
     <Entry>
       <PointerOffset>1742912</PointerOffset>
       <JapaneseText>ポジティブディオとネガティブメル</JapaneseText>
-      <EnglishText>Positive Dio and Negative Mel</EnglishText>
+      <EnglishText>Optimist Dio &amp; Pessimist Mel</EnglishText>
       <Notes/>
       <Id>70</Id>
       <Status>Editing</Status>
@@ -573,7 +573,7 @@
     <Entry>
       <PointerOffset>1742936</PointerOffset>
       <JapaneseText>金髪野郎</JapaneseText>
-      <EnglishText>Blonde Bastard</EnglishText>
+      <EnglishText>The Jerk with the Flaxen Hair</EnglishText>
       <Notes/>
       <Id>72</Id>
       <Status>Editing</Status>
