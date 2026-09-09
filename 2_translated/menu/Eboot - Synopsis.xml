@@ -357,10 +357,16 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 　でもクラースさんはお酒ばっかり飲んでだ
 らしない男の人でした。そのうえ、「他へ行
 け」だなんて……とても非協力的で……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We arrived at &lt;Red&gt;Euclid Village&lt;DarkBlue&gt;, hoping
+to meet Professor Klarth F. Lester—the summoner
+who had helped defeat Dhaos, the Demon King.
+   It was a very peaceful, rural village, and we did
+find Klarth living there.
+   However, Klarth was...a raging alcoholic, and very
+unhelpful. He even told us to ask someone else!</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089044</PointerOffset>
@@ -372,18 +378,27 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 　わたしたちだけで精霊を探すんだから！
 　わたしたち、イフリートのいるフレイラン
 ドの&lt;Red&gt;熱砂の洞窟&lt;DarkBlue&gt;へ行きます！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>   Then, even worse: he said he would only help
+if we brought Efreet to him, even knowing
+how dangerous that would be... I didn't think
+he'd be such a jerk...
+   I know he put his whole life into his work, and
+he's sad the scholars don't like it, but that's no
+excuse for his behavior!
+   We'll just get the Spirits ourselves!
+   Now, to find Efreet! Next stop: Freyland's
+&lt;Red&gt;Cavern of Burning Sands&lt;DarkBlue&gt;!</EnglishText>
+      <Notes>  </Notes>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089064</PointerOffset>
       <JapaneseText>なぞの仮面の人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mysterious Masked Man</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089068</PointerOffset>
@@ -396,10 +411,18 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 　「イフリートにかなうわけがない」なんて
 ……せっかく、自分をふるい立たせてここま
 で来たのに、心が折れること言われて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Ah, it's so hot... Sweat is dripping down the pen
+as I write...
+   We're now at the &lt;Red&gt;Cavern of Burning Sands&lt;DarkBlue&gt;,
+where Efreet lives.
+   As soon as we entered, we met that masked man—
+the one who made monsters attack &lt;Red&gt;Valhalla&lt;DarkBlue&gt;.
+   "I'm sure you can't beat Efreet," he said.
+   Just when I was proud of myself for coming
+this far, to hear something so cruel...</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089072</PointerOffset>
@@ -411,18 +434,23 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 　……平気、だよね……？
 　とにかくイフリートのいるところを目指し
 ます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   But, this isn't the time to feel down!
+   We don't even know if we'll have to fight. Sure,
+Klarth said Efreet is violent, but... I'm sure we'll
+be fine.
+   ...We'll be fine, right?
+   ...Anyway, we need to head for Efreet.</EnglishText>
       <Notes/>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089092</PointerOffset>
       <JapaneseText>イフリートに勝った！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We Beat Efreet!</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089096</PointerOffset>
@@ -434,10 +462,16 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 勝つことができました。
 　でも、契約の指輪っていうのを持ってない
 とイフリートは力になってくれないって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Deep in the &lt;Red&gt;Cavern of Burning Sands&lt;DarkBlue&gt;, we met
+Efreet. We did have to fight him after all, but...
+   Well, I really thought we would die. I was so afraid
+we were going to die, I almost started crying. But, in
+the end, we won!
+   ...And then he said, if we don't have a Pact Ring,
+he can't help us...</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089100</PointerOffset>
@@ -449,18 +483,24 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 進まないけれど、この時代、頼れるのはあの
 人だけだし……一旦、この人を&lt;Red&gt;ユークリッド
 村&lt;DarkBlue&gt;まで運ぼうかと思います。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Luckily, we found a woman who had also been
+making her way into the cavern. She had a Pact
+Ring with her, which she let us use... But she
+was really badly hurt, and even fainted!
+   I don't really want to see Klarth again, but... he's
+the only person we can count on now. We'll have
+to carry her back to &lt;Red&gt;Euclid&lt;DarkBlue&gt;.</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089120</PointerOffset>
       <JapaneseText>ヴァルハラへ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Valhalla</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089124</PointerOffset>
@@ -473,10 +513,17 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 　でも、クラースさんは「恋人なんかじゃな
 い！」って言うんです。照れなくてもいいの
 に。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Apparently, Klarth let himself go out of loneliness,
+because Mirald had left him...
+   ...Or rather, he had chased Mirald away himself,
+but ended up wallowing in regret? Well, anyway,
+the two of them seem like a really great couple!
+You can feel how much they care for each other.
+   Klarth insists they're not together, though, but...
+Well, what's there to be shy about?</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089128</PointerOffset>
@@ -488,18 +535,23 @@ to &lt;Red&gt;Euclid&lt;DarkBlue&gt; to find Klarth, we'll know for sure.</Engli
 に&lt;Red&gt;ヴァルハラ&lt;DarkBlue&gt;へ行くことになりました。
 　……本当はクラースさん、そんなイヤな人
 でもなかったかなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Klarth can't lend us any Pact Rings, since they're
+too valuable, but he did say a scholar named Basil
+might know something. He's in &lt;Red&gt;Valhalla&lt;DarkBlue&gt;.
+   And so, to introduce us, Klarth is coming with us to
+&lt;Red&gt;Valhalla&lt;DarkBlue&gt;!
+   Maybe Klarth isn't such a bad guy after all...</EnglishText>
       <Notes/>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089148</PointerOffset>
       <JapaneseText>知ってるけど知らない町</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A Town Familiar, Yet Strange</EnglishText>
       <Notes/>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089152</PointerOffset>
