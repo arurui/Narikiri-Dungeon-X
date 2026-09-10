@@ -766,10 +766,16 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 いうか、たよりない感じで……
 　でも、どうして……どうしてエトがノーム
 にさらわれなきゃいけないの……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   The next spirit is the Spirit of Earth, Gnome...who has
+just kidnapped Ethos.
+   It's left me pretty upset, and even Dio seems to be
+having a hard time dealing with it.
+   I do think I'm okay for now, but... My chest still feels
+tight. I think I'm a little lonely...and anxious, maybe.
+   Why did Gnome have to take her away...?</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089268</PointerOffset>
@@ -781,18 +787,23 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 トは助け出す……。
 
 　でも、精霊晶核のことも忘れないように。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Klarth says a spirit wouldn't just kidnap someone
+for no reason, but... Ethos hasn't done anything!
+   We have to help her.
+   Even if it means fighting Gnome.
+
+   And we need his Atomism Core, too.</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089288</PointerOffset>
       <JapaneseText>よかったぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whew...</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089292</PointerOffset>
@@ -805,10 +816,16 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 のまま、ほっといたらエトがばらばらにされ
 たりしてたのかって思うと、ちょっとぞっと
 します。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Gnome ran away at first, but we caught him, and
+got Ethos back, and his Atomism Core, too.
+   Klarth says Gnome was defending his territory,
+but we don't really know for sure.
+   Gnome said he was "investigating" Ethos, but...
+It's scary to imagine what he might have done to
+her if we hadn't followed.</EnglishText>
       <Notes/>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089296</PointerOffset>
@@ -818,18 +835,21 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 れちゃったりしないかな。
 　そんな心配をしながら、とりあえず&lt;Red&gt;精霊の
 洞窟&lt;DarkBlue&gt;から出ます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   But she's fine, and I'm really happy about that.
+   Undine, the Spirit of Water, is next.
+   I hope nothing bad happens to Ethos this time...
+   First, we'll need to leave the &lt;Red&gt;Cavern of Spirits&lt;DarkBlue&gt;.</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089316</PointerOffset>
       <JapaneseText>王様の許可</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The King's Permission</EnglishText>
       <Notes/>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089320</PointerOffset>
@@ -842,10 +862,16 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 んです。王様ってコワい人なの？
 　そこで、バジルさんから王様にたのんでも
 らうことになりました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   If we can just find Undine, we can put a stop to the
+Prism Ring.
+   But Undine is in the &lt;Red&gt;Limestone Cave&lt;DarkBlue&gt;, and it looks
+like we'll need permission from Alvanista's king to
+go there...
+   Klarth seems nervous... Is the king that scary?
+   We're going to have Basil ask for us.</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089324</PointerOffset>
@@ -855,18 +881,21 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 ハラ&lt;DarkBlue&gt;へ向かいます。
 　あともう少しなのに、もどかしい感じがし
 ています……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Basil is a scholar of magic, and it seems the king
+values him greatly.
+   To see Basil, we'll need to go back to &lt;Red&gt;Valhalla&lt;DarkBlue&gt;.
+   We're so close, now...</EnglishText>
       <Notes/>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089344</PointerOffset>
       <JapaneseText>お返事を待つあいだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Waiting for an Answer</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089348</PointerOffset>
@@ -879,10 +908,16 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　アルヴァニスタからお返事が来るまで、一
 晩くらいかかるみたいなので、しばらくここ
 で待つことになりました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We met Basil in &lt;Red&gt;Valhalla&lt;DarkBlue&gt;, and asked about
+the &lt;Red&gt;Limestone Cave&lt;DarkBlue&gt;, and he's happy to help.
+   In return, Basil wants Klarth's help with his research,
+and Klarth agreed...thankfully. He's done so much
+for us.
+   We won't get an answer until morning, so we'll
+spend the night here.</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089352</PointerOffset>
@@ -893,18 +928,23 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 ます。
 　過去の世界に来て、こんなゆっくりするの
 は初めてかもしれません。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We don't have much time to spare, but...all we can
+do is wait.
+   It's a quiet, poor and sad little town...or really just
+a village... Still, I think I'll take a look around.
+   Since we came to this time, this is the first chance
+I've had to relax.</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089372</PointerOffset>
       <JapaneseText>夢はでっかく！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dream Big!</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089376</PointerOffset>
@@ -916,10 +956,15 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 能性があるんだ！
 　よーし、王様からの許可ももらったし、ウ
 ンディーネのいる&lt;Red&gt;浸食洞&lt;DarkBlue&gt;に向かうぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Yo, Mel! Looks like you've been writing a lot!
+Lemme try writing, too!
+   I mean, Basil said my future's so bright it's "pure
+white," right? So...I can do whatever I want!
+   A'ight, anyway, we got the king's permission
+now, so let's go to that &lt;Red&gt;Limestone Cave&lt;DarkBlue&gt;!</EnglishText>
       <Notes/>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089380</PointerOffset>
@@ -931,18 +976,24 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　バジルさんの研究、うまくいくといいよ
 な。あの村が豊かになりますように……って
 そういや、なるんだっけ！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We'll get Undine's Atomism Core, destroy the
+Prism Ring, and cut us a big path to the future!
+   If even a magicless elf like Basil can earn the
+king's respect, nothin' can stop us!
+   I hope his research goes well. Maybe he can
+make that whole town rich! ...Oh wait, they get
+rich anyway, don't they!?</EnglishText>
       <Notes/>
       <Id>57</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089400</PointerOffset>
       <JapaneseText>精霊の力が集まった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the Power of the Spirits!</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089404</PointerOffset>
@@ -955,10 +1006,17 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　……それはいいとして、ウンディーネから
 も精霊晶核をもらうことができました。
 　これでやっと虹輪を止められます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Stop it, Dio! Don't write in this book! It's mine!
+   Every time you get even a little bit excited, you
+get carried away! ...Actually, how can you even be
+so upbeat all the time...?
+
+   Anyway, let's let that go... We did get Undine's
+Atomism Core.
+   Finally, we can put a stop to the Prism Ring.</EnglishText>
       <Notes/>
       <Id>59</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089408</PointerOffset>
@@ -970,18 +1028,24 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 ません。
 　わたしたちは、虹輪もほっとけないし。
 　とりあえず&lt;Red&gt;浸食洞&lt;DarkBlue&gt;から出ないと。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   At last, a little relief.
+   But. it also means we'll be parting from Klarth
+and Rodi. We've gotten along really well, so
+saying goodbye feels a little sad.
+   But since we're from different times, this is
+just how it is.
+   First, let's get out of this &lt;Red&gt;Limestone Cave&lt;DarkBlue&gt;.</EnglishText>
       <Notes/>
       <Id>60</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089428</PointerOffset>
       <JapaneseText>さよなら、ロディさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Farewell, Rodi</EnglishText>
       <Notes/>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089432</PointerOffset>
@@ -994,10 +1058,15 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　それにしてもどうして、ロディさんはダオ
 スと……やっぱりクレスさんたちと一緒に世
 界を守りたかったのでしょうか。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   As soon as we exited the &lt;Red&gt;Limestone Cave&lt;DarkBlue&gt;, Rodi
+left. Apparently, she had gathered enough mana in her
+ring, and that (somehow...?) lets her travel through time.
+   She's trying to find, and defeat, Dhaos.
+   ...Why, though...? Hmm. Maybe she just wants to help
+Cless and the others?</EnglishText>
       <Notes/>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089436</PointerOffset>
@@ -1009,18 +1078,22 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　わたしたちは、自分たちの時代へ戻って&lt;Red&gt;
 ヴァルハラ&lt;DarkBlue&gt;の虹輪を消さなくっちゃいけない
 ですから。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   She's usually so shallow, but sometimes she looks
+really gloomy... It's part of her charm.
+   But, Rodi has her goals, and we have ours.
+   We need to go back to our own time, and take care
+of the Prism Ring in &lt;Red&gt;Valhalla&lt;DarkBlue&gt;.</EnglishText>
       <Notes/>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089456</PointerOffset>
       <JapaneseText>虹輪が消せない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Prism Ring Won't Go Away...</EnglishText>
       <Notes/>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089460</PointerOffset>
@@ -1032,10 +1105,15 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　でも、今、ここで落ち込んでいられませ
 ん。強力な術者さんを見つけ出せれば、精霊
 晶核で、魔力の暴走を抑えられるのです。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We made it to &lt;Red&gt;Valhalla&lt;DarkBlue&gt; and tried
+to take care of the Prism Ring, but the Atomism Cores
+couldn't fully suppress its magic. It seems we can't
+use their full power, and need someone who can.
+   But there's no time to feel down about it. We just
+need to find a strong enough magic user...</EnglishText>
       <Notes/>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089464</PointerOffset>
@@ -1048,18 +1126,23 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 伝いしてもらえたかも……ううん、泣き言は
 言いません。
 　&lt;Red&gt;オリーブヴィレッジ&lt;DarkBlue&gt;に行ってきます！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   The wizard in &lt;Red&gt;Olive Village&lt;DarkBlue&gt;, who taught us
+about the spirits, is really the only person we can ask...
+   ...If the Painting of the Sun hadn't lost its power, we
+could ask Klarth, or Basil...but there's no use crying
+over spilt milk.
+   So, &lt;Red&gt;Olive Village&lt;DarkBlue&gt; it is!</EnglishText>
       <Notes/>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089484</PointerOffset>
       <JapaneseText>お家へ帰ろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Back Home</EnglishText>
       <Notes/>
       <Id>67</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089488</PointerOffset>
@@ -1071,10 +1154,15 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 も驚いていたけれど……
 　精霊なんて、わたしたち、とってもすごい
 ものに会っちゃったのかな……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We asked &lt;Red&gt;Olive Village&lt;DarkBlue&gt;'s wizard
+if he knew anyone who could use the Cores, but...he
+said he doesn't know... So, that's not good.
+   ...Actually, he was really surprised we'd met the
+spirits at all...
+   ...Did we do something, like, really incredible?</EnglishText>
       <Notes/>
       <Id>68</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089492</PointerOffset>
@@ -1084,18 +1172,22 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 　あまりゆったりともしてられなさそうだし
 ……エトとディオと一緒に考えれば何かいい
 アイデアが浮かぶ……といいんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We should go home and think through our options.
+   ...But there's probably no other way to stop the
+magic...
+   I mean, the Prism Ring is totally out of control...
+   ...I hope Ethos and Dio have some ideas...</EnglishText>
       <Notes/>
       <Id>69</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089512</PointerOffset>
       <JapaneseText>また昔の時代へ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Back to the Past</EnglishText>
       <Notes/>
       <Id>70</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089516</PointerOffset>
@@ -1108,10 +1200,17 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 した。ノルンさんはディオとわたしをエトに
 預けた人で、アルベルトさんにわたしたちの
 ところへ来るように言った人。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   When we returned to &lt;Red&gt;Ethos's House&lt;DarkBlue&gt;, we
+were suddenly attacked by a mysterious man.
+   Or rather, we were attacked by Dhaos, the Demon
+King, who had terrorized Aselia long ago. For some
+reason, he was trying to kill us.
+   We were saved at the very last moment, by Norn...
+The same Norn who had left us with Ethos, and sent
+Albert to meet us.</EnglishText>
       <Notes/>
       <Id>71</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089520</PointerOffset>
@@ -1124,18 +1223,22 @@ Spirits&lt;DarkBlue&gt;. I hope this time will be peaceful!</EnglishText>
 &lt;Red&gt;トーティス村&lt;DarkBlue&gt;を目指します。
 　あ、ノルンさんにお礼言うの忘れちゃいま
 した……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Why does Dhaos want to kill us? ...And what can
+we do about the Prism Ring...?
+   Norn told us to go back 100 years, to ask Cless,
+who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
+   Oh... I forgot to say thank you to Norn...</EnglishText>
       <Notes/>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089540</PointerOffset>
       <JapaneseText>時空戦士に会えるぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're Gonna Meet The Heroes!</EnglishText>
       <Notes/>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089544</PointerOffset>
