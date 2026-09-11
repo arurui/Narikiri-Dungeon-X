@@ -1251,10 +1251,18 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 クレスが現れ、事件解決！みたいなー……
 　でも、暢気で穏やかな、なんか英雄の活躍
 どころがないような静かな村なんだよなぁ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Hell yeah! We made it to &lt;Red&gt;Totus Village&lt;DarkBlue&gt;!
+I've read all about Cless, and now I can finally meet
+him! Pretty quiet place, though. Doesn't feel like a 
+place a hero would live.
+   I thought it'd be like, a wretch hive of scum and
+villainy, evil lurking everywhere in streets...then
+Cless appears and saves the day!
+   But, it's kinda all calm and laid-back. Don't think
+there's much heroism to do in a village like this.</EnglishText>
       <Notes/>
       <Id>74</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089548</PointerOffset>
@@ -1267,18 +1275,24 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 な。おっ、教会もある。
 　そんな広い村じゃないし、ささっとクレス
 を探して、話を聞こうぜ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   ...
+   But nah, Cless lives here! The same Cless who
+defeated Dhaos! It's exciting just to think about!
+   Oh, right! Cless did run a swordsmen's school...
+and there's a church here, too.
+   Anyway, the village isn't that big, so let's go find
+Cless!</EnglishText>
       <Notes/>
       <Id>75</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089568</PointerOffset>
       <JapaneseText>チェスターさんに会う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We Met Chester</EnglishText>
       <Notes/>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089572</PointerOffset>
@@ -1291,10 +1305,16 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 　そんな時に出会った銀色の髪をしたお兄さ
 ん……チェスターさんって人……が、わたし
 たちを手伝ってくれることになりました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Dio, I told you not to write in my book! Jeez...
+   ...We did make it to &lt;Red&gt;Totus&lt;DarkBlue&gt;, but
+we weren't able to see Cless. It seems like he's really
+busy...and so is Mint, who fought Dhaos together with
+him.
+   But, we met a man with silver hair named &lt;Red&gt;Chester&lt;DarkBlue&gt;,
+who offered to help us instead.</EnglishText>
       <Notes/>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089576</PointerOffset>
@@ -1307,18 +1327,25 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 たちを育てている、とても優しい人です。
 　チェスターさんと一緒にマクスウェルのい
 る&lt;Red&gt;モーリア坑道&lt;DarkBlue&gt;に向かっています。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   It seems Chester was also one of the Heroes of
+Time. I thought they'd be, um...more serious, and
+stronger, and charismatic... But, he actually seems
+really normal! Actually, maybe Arche was kind of
+like this, too? Anyway, he's still a really kind person,
+who even looks after orphans!
+   Now we're going with him to the &lt;Red&gt;Moria Mine&lt;DarkBlue&gt;,
+to meet Maxwell.</EnglishText>
       <Notes/>
       <Id>78</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089596</PointerOffset>
       <JapaneseText>モーリア坑道で</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In Moria Mine</EnglishText>
       <Notes/>
       <Id>79</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089600</PointerOffset>
@@ -1331,10 +1358,18 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 に似ていたのかな……？
 　洞窟の途中に妖精だって子に会いました。
 妖精なのに、全然、エトに似てないんです。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We've made it to Moria Mine now, and Chester has
+been a big help along the way.
+   We still have a lot to learn...
+   He taught us how to capture monsters, and also
+helped us when they attacked.
+   He also called me by his younger sister's name,
+so now I'm wondering if we look alike...
+   While traveling in the caves, we met with someone
+calling himself a fairy, but...he's nothing like Ethos...</EnglishText>
       <Notes/>
       <Id>80</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089604</PointerOffset>
@@ -1347,18 +1382,25 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 　ちょっとナマイキな口調で話すところと
 か、ディオに似てて憎めなくって、なんとか
 してあげたいって思うんですよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   He was cursed by a mean wizard, and now he
+can't move at all. I feel a little bad for him.
+   I'd like to help him, but we need to focus on
+meeting Maxwell for now. Though, maybe we can
+ask Maxwell to help him, too...?
+   He's pretty rude and mouths off a lot, but that
+just reminds me of Dio, so it's kind of endearing.
+I hope we're able to do something for him.</EnglishText>
       <Notes/>
       <Id>81</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089624</PointerOffset>
       <JapaneseText>力あふれる……かな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overflowing Power!...?</EnglishText>
       <Notes/>
       <Id>82</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089628</PointerOffset>
@@ -1371,10 +1413,16 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 ていましたが、それ以上です。
 　でも、そのおかげもあって、強い力を手に
 入れられた気がします。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Phew... I really thought we were going to die.
+   The pain was like my body was being ripped apart, and my
+insides felt like they'd come up through my mouth... I couldn't
+even breathe.
+   The other spirits we fought were really dangerous, and I
+know that, but...this time was even worse.
+   But, partly because of that, we've grown even stronger.</EnglishText>
       <Notes/>
       <Id>83</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089632</PointerOffset>
@@ -1387,18 +1435,24 @@ who once fought Dhaos. We'll need to go to &lt;Red&gt;Totis&lt;DarkBlue&gt;.
 いけません。
 買い物メモ：カレーの材料、アップルグミ、
 お客様用のティーカップ（ディオが割った）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   I wonder if we're strong enough to calm the Prism Ring, now.
+   Chester was really worried about us... Of course, Ethos and
+Couleur, too.
+   Before we return to our time, we need to go back to &lt;Red&gt;Totus&lt;DarkBlue&gt;
+and ask Cless about Dhaos.
+   P.S. We need ingredients for curry, apple gels, and a set of
+teacups for visitors! (Dio broke the ones we had...)</EnglishText>
       <Notes/>
       <Id>84</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089652</PointerOffset>
       <JapaneseText>ふたりの時空戦士</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Two Heroes of Time</EnglishText>
       <Notes/>
       <Id>85</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089656</PointerOffset>
