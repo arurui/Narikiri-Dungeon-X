@@ -1465,10 +1465,18 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 　恋人同士なのに、忙しくて会えないふたり
 の代わりをしてあげられれば……そう思った
 んです。でも、うまくできませんでした……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Dio and I worked together to help out
+Cless and Mint. Cless has been busy with
+his...um...mursinary...work, and Mint is the
+only cleric in the village, so she's had to
+care for every injury and illness herself.
+   Two lovers too busy to meet each other...
+We thought if we helped with their work,
+they'd get time together, but it didn't go that
+well.</EnglishText>
       <Notes/>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089660</PointerOffset>
@@ -1481,18 +1489,25 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 　「シグルド」って悪い人たちと戦うため、
 わたしたちは、クレスさんたちと一緒に&lt;Red&gt;ヴァ
 ルハラ村&lt;DarkBlue&gt;へ向かうことにしました。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   And we were so busy ourselves, we
+didn't even get to ask about Dhaos...
+   Then, Dio suddenly said he wanted to
+do more to help Cless, because he failed
+at one of the tasks Cless left to him...
+   Either way, I can't let him go alone.
+   We'll be travelling to &lt;Red&gt;Valhalla&lt;DarkBlue&gt;, to
+battle a group of villains called "Sigurd."</EnglishText>
       <Notes/>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089680</PointerOffset>
       <JapaneseText>ヴァルハラの戦い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle in Valhalla</EnglishText>
       <Notes/>
       <Id>88</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089684</PointerOffset>
@@ -1505,10 +1520,17 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 倒してしまったんだって。
 　クレスさん、後悔してないって言ってたけ
 ど、本当は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   Before the battle in &lt;Red&gt;Valhalla&lt;DarkBlue&gt;, we asked
+Cless about Dhaos... It seems like Cless isn't
+happy about defeating him.
+   He said Dhaos had been trying so save
+the world from the threat of Magitech, and
+Cless had defeated him anyway.
+   He says he doesn't regret it, but...I'm not
+sure if that's true...</EnglishText>
       <Notes/>
       <Id>89</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089688</PointerOffset>
@@ -1521,18 +1543,26 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 物があふれ出し世界中で大変なことに！
 　扉を閉じるため、精霊ルナの光の力を借り
 に、&lt;Red&gt;12星座の塔&lt;DarkBlue&gt;へ向かいます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   As soon as morning came, we began our attack on &lt;Red&gt;Valhalla&lt;DarkBlue&gt;...but
+Sigurd's leader, Brynhildr, escaped the
+moment we found him.
+   Meanwhile, Sigurd had opened &lt;Red&gt;Surt Forest&lt;DarkBlue&gt;'s
+door to the demon realm! Now monsters are
+escaping and wreaking havoc everywhere!
+   We need to go to the &lt;Red&gt;Celestial Tower&lt;DarkBlue&gt;
+to ask Luna, the light spirit, to help us close
+the door!</EnglishText>
       <Notes/>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089708</PointerOffset>
       <JapaneseText>壊れたポット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Shattered Pot</EnglishText>
       <Notes/>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089712</PointerOffset>
@@ -1545,10 +1575,17 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 うけど、いつもなら、悪びれることもなく
 て、「あーゴメンゴメン♪」で済ますのに
 ……でも、今日はすごく落ち込んでる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   In the &lt;Red&gt;Celestial Tower&lt;DarkBlue&gt;, we met the fairy
+from &lt;Red&gt;Moria Mine&lt;DarkBlue&gt; again.
+   He started pushing Ethos around, so...
+Dio ended up dropping the Elemental Pot,
+and it broke...
+   Dio gets distracted and breaks things a
+lot, but it's usually not a big deal... But, this
+time, he's really upset.</EnglishText>
       <Notes/>
       <Id>92</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089716</PointerOffset>
@@ -1561,18 +1598,26 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 　「精霊のことは精霊に聞けばなんとかなる
 よ」とクレスさんの言葉を信じて、ルナがい
 る塔を登っていますが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   I told him it's not his fault, but I don't think
+he believed me... I'm really upset, too.
+   He was putting his all into helping Cless, 
+just to lose the Atomic Cores we worked
+so hard to collect... We don't even have
+any clue where they went...
+   Cless says, since we got them from the
+spirits, the spirit Luna, at the top of the tower,
+should be able to help. I think he's right.</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089736</PointerOffset>
       <JapaneseText>ルナは優しいお姉さん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luna's So Kind</EnglishText>
       <Notes/>
       <Id>94</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089740</PointerOffset>
@@ -1585,10 +1630,18 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 　人間にもいろんな人がいるみたいに、精霊
 もそうなのかもなぁ。あの妖精さんのお母さ
 んみたい……いえ、お姉さんかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   The fairy disguised himself as Luna, but
+we defeated him, and were finally able to
+meet with the real Luna.
+   She lent us her power and told us where
+to find the cores. The other spirits were
+smug and loved to fight, but not her.
+   Maybe, like humans, there are many
+different kinds of spirits...? She seemed
+kind of like that fairy's older sister!</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089744</PointerOffset>
@@ -1601,18 +1654,26 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 んかどうも様子が変なんです。
 　もしかして、やっぱり、あれは……いえ
 ……今はやめておきます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   We need to go get the Atomic Cores, but
+first, we're going to &lt;Red&gt;Surt Forest&lt;DarkBlue&gt; with Cless
+and Mint.
+   We can't just let the monsters run wild!
+   Dio says he wants to give Brynhildr a big
+punch, too, but...there's something weird
+about him lately...
+   ...Maybe he...? ...Actually, I should leave it
+be for now.</EnglishText>
       <Notes/>
       <Id>96</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089764</PointerOffset>
       <JapaneseText>バジルさんだった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It Was Basil</EnglishText>
       <Notes/>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089768</PointerOffset>
@@ -1625,10 +1686,18 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 ちに手を貸してるなんて。それどころか、そ
 の人たちのリーダーだなんて。
 　信じたくない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   I thought Brynhildr might actually be Basil,
+and I think I was right. He's hiding his face,
+but he still smells the same. But...I'm still a
+little shocked.
+   I mean, Basil's smile was so bright, and his
+eyes were so honest. Why would he join a
+group that does so many cruel things? And
+then become their leader!
+   I don't want to believe it...</EnglishText>
       <Notes/>
       <Id>98</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089772</PointerOffset>
@@ -1641,10 +1710,18 @@ teacups for visitors! (Dio broke the ones we had...)</EnglishText>
 　ううん、まだバジルさんだとは限りませ
 ん。&lt;Red&gt;スルト深林&lt;DarkBlue&gt;の奥へと逃げていったブレイ
 ナーの正体を確認するまでは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>   But, I'm sure Dio is even more shocked
+than me.
+   After all, what Basil said gave him so much
+hope, and made him really happy.
+   Why is Basil doing something so different
+from what he always said before?
+   ...But it still might not be him. We need to
+follow Brynhildr deeper into &lt;Red&gt;Surt Forest&lt;DarkBlue&gt;,
+so we can find out for sure.</EnglishText>
       <Notes/>
       <Id>99</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2089792</PointerOffset>
