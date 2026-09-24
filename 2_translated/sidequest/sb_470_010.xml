@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>285856,286000</PointerOffset>
       <JapaneseText>腰が痛いおばさん</JapaneseText>
-      <EnglishText>Woman with Hip Pain</EnglishText>
+      <EnglishText>Woman with Back Pain</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Editing</Status>
@@ -236,8 +236,8 @@ you've returned?</EnglishText>
       <PointerOffset>285936</PointerOffset>
       <JapaneseText>はい。その後、腰の具合は
 いかがですか？</JapaneseText>
-      <EnglishText>Yes. How have your
-hips been since then?</EnglishText>
+      <EnglishText>Yes. How has your
+back been since then?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
