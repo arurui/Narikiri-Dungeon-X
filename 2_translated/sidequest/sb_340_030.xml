@@ -146,359 +146,393 @@
       <JapaneseText>さぁあっ！
 今日もやって来た来た！
 やって来た！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And here we are,
+with another, other,
+other challenger!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284332</PointerOffset>
       <JapaneseText>挑戦者もここまで来た！
 命知らずのヤツが来たぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger approaches! A fool
+searching for death approaches!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284452</PointerOffset>
       <JapaneseText>挑戦者は&lt;Dio&gt;！　１３歳！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Dio&gt;! 13 years old!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284452</PointerOffset>
       <JapaneseText>ここは誰も彼も命懸け！
 学校のお遊戯広場じゃないぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In taking this challenge, our challengers risk
+their lives! This isn't a school playground, kid!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284516</PointerOffset>
       <JapaneseText>オレだって、
 命懸けで戦うぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can put my life
+on the line, too!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284608</PointerOffset>
       <JapaneseText>勢いだけでは勝てないぞ！
 やられてへこんで挫折しろ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't win this on pure energy
+alone! You'll learn that hard way!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284732</PointerOffset>
       <JapaneseText>挑戦者は&lt;Mel&gt;！
 １３歳の女の子！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Mel&gt;!
+A 13-year-old girl!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284732</PointerOffset>
       <JapaneseText>泣いても喚いても、
 もうここからは
 逃げられないぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cry and scream all you like,
+but once you set foot in this
+arena, there's no running away!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284792</PointerOffset>
       <JapaneseText>逃げたりなんてしません！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will not run away!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284904</PointerOffset>
       <JapaneseText>泣きたくても逃げたくても、
 死んでからでは泣けないし、
 逃げられないぞ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you feel like you do want
+to cry, you do want to run, you'll be
+dead! And the dead can't run, girl!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285032</PointerOffset>
       <JapaneseText>挑戦者は&lt;Rondoline&gt;・Ｅ・
 エッフェンベルグ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Rondoline&gt; E. Effenberg!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285032</PointerOffset>
       <JapaneseText>ムダなお色気振りまいて。
 魔物たちは騙せないぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monsters don't care
+about your wiles, lady!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285104</PointerOffset>
       <JapaneseText>余計なお世話。
 さっさと戦い始めよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't waste your worry on
+me. Let's start the battle!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285208</PointerOffset>
       <JapaneseText>いいだろう、いいだろう、
 その不敵さの鼻っ柱、
 折ってみせよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, alright. Pretty soon,
+your dauntless fighting spirit's
+gonna be stomped into the dirt!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285308</PointerOffset>
       <JapaneseText>挑戦者は&lt;Couleur&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Couleur&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285308</PointerOffset>
       <JapaneseText>ただの動物が
 人間様に勝とうとは
 片腹痛い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just some stupid animal. You
+think you can win against the
+great human race? Ridiculous.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285356</PointerOffset>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285452</PointerOffset>
       <JapaneseText>やろうってなら、
 いいだろう！
 人間様のすごさを思い知れ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you wanna go, then
+let's go! I'll teach you how
+superior humans really are!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285572</PointerOffset>
       <JapaneseText>挑戦者は&lt;Cless&gt;・アルベイン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Cless&gt; Albane!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285572</PointerOffset>
       <JapaneseText>英雄だろうとなんだろうと、
 誰も甘やかしはしないぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They call him a hero, but no one's
+going to indulge those tales here!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285632</PointerOffset>
       <JapaneseText>あ、お、お手柔らかに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, well... Could you try not
+to be too rough on me...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285712</PointerOffset>
       <JapaneseText>お手柔らかにとはご冗談を！
 全力で死ね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not too rough? What's
+that, some kinda joke?
+We're gonna kill you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285848</PointerOffset>
       <JapaneseText>挑戦者は&lt;Mint&gt;・アドネード！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Mint&gt; Adenade!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285848</PointerOffset>
       <JapaneseText>ひとりでは何もできない！
 非力な法術師よ！
 もうここから帰れないぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She can't do anything on
+her own! She's a powerless
+cleric! Get out of here, already.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285916</PointerOffset>
       <JapaneseText>あ、えっと……
 がんばります……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, um... Okay, I'll go...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286008</PointerOffset>
       <JapaneseText>がんばるだけで敵に勝てたら、
 戦士なんていらない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No warrior can win on
+strength of will alone!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286148</PointerOffset>
       <JapaneseText>挑戦者は
 &lt;Chester&gt;・バークライト！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Chester&gt; Burklight!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286148</PointerOffset>
       <JapaneseText>弓矢で後ろからちまちまと
 戦う臆病者が今日ここで、
 華々しく散るのか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some coward who hides away
+and shoots his enemies in the back.
+We'll scatter you to the winds!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286196</PointerOffset>
       <JapaneseText>誰が散るか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll scatter you!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286296</PointerOffset>
       <JapaneseText>口先ばかりの勢いが
 証明される時が
 目の前まで迫っているぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe you can talk the talk,
+but we're about to find out
+if you can walk the walk!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286416</PointerOffset>
       <JapaneseText>挑戦者は&lt;Arche&gt;・クライン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our challenger, &lt;Arche&gt; Klein!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286416</PointerOffset>
       <JapaneseText>本当は年増のくせに若作り！
 いい歳して若いつもりか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She looks like a little girl, but
+she's actually an old hag! </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286488</PointerOffset>
       <JapaneseText>ひ、ひどいっ！
 ケンカ売ってんの！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>S-So mean! Are you
+looking for a fight!?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286596</PointerOffset>
       <JapaneseText>その怒り、存分に魔物に
 ぶつけて、ぶつけて、
 ぶつけ返されるといいっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take that anger and
+use it to pound these
+monsters into dust!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286744</PointerOffset>
