@@ -2039,8 +2039,8 @@ Recovers 3% HP, 5% EBG</EnglishText>
       <PointerOffset>6620</PointerOffset>
       <JapaneseText>ほぼ全身食べられる優秀な食材。
 刺身、揚げる、煮る、焼く等、自由に調理しよう</JapaneseText>
-      <EnglishText>An excellent ingredient, almost completely edible.
-Cut, boil, cook and you've got a tasty meal!</EnglishText>
+      <EnglishText>An excellent ingredient. Almost every part is edible.
+Fried, boiled, sashimi, etc.—prepare it however you like.</EnglishText>
       <Notes/>
       <Id>236</Id>
       <Status>Editing</Status>
@@ -2049,7 +2049,7 @@ Cut, boil, cook and you've got a tasty meal!</EnglishText>
       <PointerOffset>6624</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ２％、ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 2% HP, 3% EBG</EnglishText>
       <Notes/>
       <Id>237</Id>
@@ -2058,7 +2058,7 @@ Recovers 2% HP, 3% EBG</EnglishText>
     <Entry>
       <PointerOffset>6644</PointerOffset>
       <JapaneseText>いたのり</JapaneseText>
-      <EnglishText>Seaweed</EnglishText>
+      <EnglishText>Dried Seaweed</EnglishText>
       <Notes/>
       <Id>238</Id>
       <Status>Editing</Status>
@@ -2067,8 +2067,8 @@ Recovers 2% HP, 3% EBG</EnglishText>
       <PointerOffset>6704</PointerOffset>
       <JapaneseText>藻類を平たく乾燥させた食材。
 たんぱく質、ビタミン、ミネラルなど栄養豊富</JapaneseText>
-      <EnglishText>Ingredient got from dry algae.
-It is very nutritious.</EnglishText>
+      <EnglishText>An ingredient which is, simply enough, seaweed that's been
+dried. A great source of protein, vitamins, and minerals.</EnglishText>
       <Notes/>
       <Id>239</Id>
       <Status>Editing</Status>
@@ -2077,7 +2077,7 @@ It is very nutritious.</EnglishText>
       <PointerOffset>6708</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>240</Id>
@@ -2095,8 +2095,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>6788</PointerOffset>
       <JapaneseText>各地で獲れる、ポピュラーな小魚。
 食用の他に、飼料、肥料としても使われる</JapaneseText>
-      <EnglishText>Since it can be captured in many places it became popular.
-It is used as a fodder or fertilizer besides for food.</EnglishText>
+      <EnglishText>A small, popular fish you can catch anywhere. It can be
+eaten, but is also used as animal feed and fertilizer.</EnglishText>
       <Notes/>
       <Id>242</Id>
       <Status>Editing</Status>
@@ -2105,7 +2105,7 @@ It is used as a fodder or fertilizer besides for food.</EnglishText>
       <PointerOffset>6792</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ、ＥＢＧ４％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 4% HP, EBG</EnglishText>
       <Notes/>
       <Id>243</Id>
@@ -2123,8 +2123,8 @@ Recovers 4% HP, EBG</EnglishText>
       <PointerOffset>6872</PointerOffset>
       <JapaneseText>お菓子のデコレーションの定番果実。
 そのままでも甘くて美味しい</JapaneseText>
-      <EnglishText>The classic decoration for cakes.
-It is sweet and delicious.</EnglishText>
+      <EnglishText>The standard decoration for confectionery.
+It's sweet and delicious even on its own.</EnglishText>
       <Notes/>
       <Id>245</Id>
       <Status>Editing</Status>
@@ -2133,7 +2133,7 @@ It is sweet and delicious.</EnglishText>
       <PointerOffset>6876</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％、ＥＢＧ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP, 5% EBG</EnglishText>
       <Notes/>
       <Id>246</Id>
@@ -2151,8 +2151,8 @@ Recovers 3% HP, 5% EBG</EnglishText>
       <PointerOffset>6956</PointerOffset>
       <JapaneseText>キチン質の殻に覆われた、くの字型の生物。
 プリプリッとした歯ごたえが特徴</JapaneseText>
-      <EnglishText>Its leftovers are generally left for other animals to eat.
-Its texture is very tender.</EnglishText>
+      <EnglishText>A creature covered in a chitinous shell and shaped like
+the letter "C". Its plump tenderness is truly special.</EnglishText>
       <Notes/>
       <Id>248</Id>
       <Status>Editing</Status>
@@ -2161,7 +2161,7 @@ Its texture is very tender.</EnglishText>
       <PointerOffset>6960</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ、ＥＢＧ４％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 4% HP, EBG</EnglishText>
       <Notes/>
       <Id>249</Id>
@@ -2179,8 +2179,8 @@ Recovers 4% HP, EBG</EnglishText>
       <PointerOffset>7040</PointerOffset>
       <JapaneseText>未熟な状態で出荷される、水分豊富な野菜。
 シャキッとした歯ごたえが特徴</JapaneseText>
-      <EnglishText>A vegetable that grows in abundant moisture.
-Its texture is crunchy.</EnglishText>
+      <EnglishText>A vegetable with high moisture content, transported
+while still unripe. Its crunchiness is truly special.</EnglishText>
       <Notes/>
       <Id>251</Id>
       <Status>Editing</Status>
@@ -2189,7 +2189,7 @@ Its texture is crunchy.</EnglishText>
       <PointerOffset>7044</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ１％、ＥＢＧ４％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 1% HP, 4% EBG</EnglishText>
       <Notes/>
       <Id>252</Id>
@@ -2207,8 +2207,8 @@ Recovers 1% HP, 4% EBG</EnglishText>
       <PointerOffset>7124</PointerOffset>
       <JapaneseText>柔らかな葉、クセの無い味で様々な料理に使われる
 人気の食材</JapaneseText>
-      <EnglishText>It is used for various dishes due to its taste.
-A rather popular ingredient.</EnglishText>
+      <EnglishText>A popular vegetable. Due to its soft leaves and
+neutral flavor, it's used in a wide variety of dishes.</EnglishText>
       <Notes/>
       <Id>254</Id>
       <Status>Editing</Status>
@@ -2217,7 +2217,7 @@ A rather popular ingredient.</EnglishText>
       <PointerOffset>7128</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>255</Id>
@@ -2235,8 +2235,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>7208</PointerOffset>
       <JapaneseText>カロリーが低く、食物繊維が豊富な食材。
 一部の主婦層ではダイエット食品としても評判</JapaneseText>
-      <EnglishText>It is low in calories and abundant in fiber.
-Due to that, it became popular as a diet food.</EnglishText>
+      <EnglishText>An ingredient low in calories, but rich in fiber. It's highly
+rated as a weight loss food among certain housewives.</EnglishText>
       <Notes/>
       <Id>257</Id>
       <Status>Editing</Status>
@@ -2245,7 +2245,7 @@ Due to that, it became popular as a diet food.</EnglishText>
       <PointerOffset>7212</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ１２％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 12% HP</EnglishText>
       <Notes/>
       <Id>258</Id>
@@ -2263,8 +2263,8 @@ Recovers 12% HP</EnglishText>
       <PointerOffset>7292</PointerOffset>
       <JapaneseText>海の中にゆらゆらと漂う食材。
 乾燥させてだし汁をとるととても美味</JapaneseText>
-      <EnglishText>Ingredient that can be found drifting in the sea.
-When dried, it can be cooked in very tasty dishes.</EnglishText>
+      <EnglishText>An ingredient that sways languidly while floating in the
+sea. It's delicious when dried and made into broth.</EnglishText>
       <Notes/>
       <Id>260</Id>
       <Status>Editing</Status>
@@ -2273,7 +2273,7 @@ When dried, it can be cooked in very tasty dishes.</EnglishText>
       <PointerOffset>7296</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 8% HP</EnglishText>
       <Notes/>
       <Id>261</Id>
@@ -2282,7 +2282,7 @@ Recovers 8% HP</EnglishText>
     <Entry>
       <PointerOffset>7316</PointerOffset>
       <JapaneseText>じゃがいも</JapaneseText>
-      <EnglishText>Potatoes</EnglishText>
+      <EnglishText>Potato</EnglishText>
       <Notes/>
       <Id>262</Id>
       <Status>Editing</Status>
@@ -2291,8 +2291,8 @@ Recovers 8% HP</EnglishText>
       <PointerOffset>7376</PointerOffset>
       <JapaneseText>栽培が比較的容易な食材。
 簡単な調理で食べられ、主食としても重宝される</JapaneseText>
-      <EnglishText>Rather easy to grow and harvest.
-It is easy to cook with.</EnglishText>
+      <EnglishText>An ingredient which is relatively easy to grow and harvest. Preparing
+it to eat is also simple, and so it's prized as a daily staple.</EnglishText>
       <Notes/>
       <Id>263</Id>
       <Status>Editing</Status>
@@ -2301,7 +2301,7 @@ It is easy to cook with.</EnglishText>
       <PointerOffset>7380</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ１０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 10% HP</EnglishText>
       <Notes/>
       <Id>264</Id>
@@ -2319,8 +2319,8 @@ Recovers 10% HP</EnglishText>
       <PointerOffset>7460</PointerOffset>
       <JapaneseText>いつものお料理にワンアクセント！
 味に深みを与えます</JapaneseText>
-      <EnglishText>A very strange yet exotic ingredient.
-Its depth is given by its flavor.</EnglishText>
+      <EnglishText>Add a special touch to your everyday
+recipes! Imparts a great depth of flavor.</EnglishText>
       <Notes/>
       <Id>266</Id>
       <Status>Editing</Status>
@@ -2329,7 +2329,7 @@ Its depth is given by its flavor.</EnglishText>
       <PointerOffset>7464</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ、ＥＢＧ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP, EBG</EnglishText>
       <Notes/>
       <Id>267</Id>
@@ -2347,7 +2347,7 @@ Recovers 5% HP, EBG</EnglishText>
       <PointerOffset>7544</PointerOffset>
       <JapaneseText>コリコリとした食感がたまらない食材。
 柔軟な体のほとんどは筋肉でできている</JapaneseText>
-      <EnglishText>An irresistible crunchy ingredient.
+      <EnglishText>An ingredient with a certain irresistible firmness.
 Most of its flexible body is composed of muscle.</EnglishText>
       <Notes/>
       <Id>269</Id>
@@ -2357,7 +2357,7 @@ Most of its flexible body is composed of muscle.</EnglishText>
       <PointerOffset>7548</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ２％、ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 2% HP, 3% EBG</EnglishText>
       <Notes/>
       <Id>270</Id>
@@ -2366,7 +2366,7 @@ Recovers 2% HP, 3% EBG</EnglishText>
     <Entry>
       <PointerOffset>7568</PointerOffset>
       <JapaneseText>たまご</JapaneseText>
-      <EnglishText>Eggs</EnglishText>
+      <EnglishText>Egg</EnglishText>
       <Notes/>
       <Id>271</Id>
       <Status>Editing</Status>
@@ -2375,8 +2375,8 @@ Recovers 2% HP, 3% EBG</EnglishText>
       <PointerOffset>7628</PointerOffset>
       <JapaneseText>栄養たっぷりな万能食材。
 割れやすいので持ち運びには注意しよう</JapaneseText>
-      <EnglishText>An all-purpose nutritious ingredient.
-Carry it with care, because it can crack easily.</EnglishText>
+      <EnglishText>An all-purpose ingredient, jam-packed with nutrients.
+It can crack easily, so be careful while carrying it.</EnglishText>
       <Notes/>
       <Id>272</Id>
       <Status>Editing</Status>
@@ -2385,7 +2385,7 @@ Carry it with care, because it can crack easily.</EnglishText>
       <PointerOffset>7632</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>273</Id>
@@ -2394,7 +2394,7 @@ Recovers 3% HP</EnglishText>
     <Entry>
       <PointerOffset>7652</PointerOffset>
       <JapaneseText>たまねぎ</JapaneseText>
-      <EnglishText>Onions</EnglishText>
+      <EnglishText>Onion</EnglishText>
       <Notes/>
       <Id>274</Id>
       <Status>Editing</Status>
@@ -2403,8 +2403,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>7712</PointerOffset>
       <JapaneseText>ソースの素材や、鍋物の具として人気の食材。
 加熱すると甘みが出るのが特徴</JapaneseText>
-      <EnglishText>A popular ingredient commonly used to prepare sauce.
-Once heated it has a very sweet texture.</EnglishText>
+      <EnglishText>A popular ingredient in sauces and stews. The
+sweetness it releases when heated is truly special.</EnglishText>
       <Notes/>
       <Id>275</Id>
       <Status>Editing</Status>
@@ -2413,7 +2413,7 @@ Once heated it has a very sweet texture.</EnglishText>
       <PointerOffset>7716</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ７％、ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 7% HP, 3% EBG</EnglishText>
       <Notes/>
       <Id>276</Id>
@@ -2431,8 +2431,8 @@ Recovers 7% HP, 3% EBG</EnglishText>
       <PointerOffset>7796</PointerOffset>
       <JapaneseText>生でも煮付けても、薬味としても良しの万能食材。
 ジャポンでは漬物として重宝されているとか</JapaneseText>
-      <EnglishText>A versatile ingredient once boiled and seasoned.
-It is considered precious and is of high utility.</EnglishText>
+      <EnglishText>An all-purpose ingredient great fresh, boiled, or even as a
+condiment. In Japon, pickles made from it are a delicacy.</EnglishText>
       <Notes/>
       <Id>278</Id>
       <Status>Editing</Status>
@@ -2441,7 +2441,7 @@ It is considered precious and is of high utility.</EnglishText>
       <PointerOffset>7800</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 30% HP</EnglishText>
       <Notes/>
       <Id>279</Id>
@@ -2459,8 +2459,8 @@ Recovers 30% HP</EnglishText>
       <PointerOffset>7880</PointerOffset>
       <JapaneseText>比較的保存の効く食材。
 一部の魔物はこれが大好物で常に携帯しているとか</JapaneseText>
-      <EnglishText>A useful ingredient, easily preserved.
-Always on demons' favorite dishes.</EnglishText>
+      <EnglishText>An ingredient that keeps relatively well. It's an
+always-carried favorite of certain daemons.</EnglishText>
       <Notes/>
       <Id>281</Id>
       <Status>Editing</Status>
@@ -2469,7 +2469,7 @@ Always on demons' favorite dishes.</EnglishText>
       <PointerOffset>7884</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% EBG</EnglishText>
       <Notes/>
       <Id>282</Id>
@@ -2487,8 +2487,8 @@ Recovers 3% EBG</EnglishText>
       <PointerOffset>7964</PointerOffset>
       <JapaneseText>さっぱりした肉質が特徴の鳥のお肉。
 こってり系が苦手な方に</JapaneseText>
-      <EnglishText>A refreshing bird meat ingredient.
-Its surface is rather thick.</EnglishText>
+      <EnglishText>Poultry with a particularly plain meatiness.
+For those who aren't good with strong flavors.</EnglishText>
       <Notes/>
       <Id>284</Id>
       <Status>Editing</Status>
@@ -2497,7 +2497,7 @@ Its surface is rather thick.</EnglishText>
       <PointerOffset>7968</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>285</Id>
@@ -2515,8 +2515,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>8048</PointerOffset>
       <JapaneseText>真っ赤に熟れた果肉が鮮やかな食材。
 フルーツのような甘みを持つものもある</JapaneseText>
-      <EnglishText>An ingredient that is colored in a vivid red.
-Its flavour is as sweet as fruit.</EnglishText>
+      <EnglishText>An ingredient that ripens to a vivid red.
+Certain varieties are as sweet as any fruit.</EnglishText>
       <Notes/>
       <Id>287</Id>
       <Status>Editing</Status>
@@ -2525,7 +2525,7 @@ Its flavour is as sweet as fruit.</EnglishText>
       <PointerOffset>8052</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 8% HP</EnglishText>
       <Notes/>
       <Id>288</Id>
@@ -2543,8 +2543,8 @@ Recovers 8% HP</EnglishText>
       <PointerOffset>8132</PointerOffset>
       <JapaneseText>野菜の定番の一つ。
 煮たり焼いたりして食べると、甘みが楽しめる</JapaneseText>
-      <EnglishText>A very standard vegetable.
-You can enjoy its sweetness by boiling it.</EnglishText>
+      <EnglishText>One of the standard vegetables. Boil
+it, roast it, eat it. It's nice and sweet.</EnglishText>
       <Notes/>
       <Id>290</Id>
       <Status>Editing</Status>
@@ -2553,7 +2553,7 @@ You can enjoy its sweetness by boiling it.</EnglishText>
       <PointerOffset>8136</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 8% HP</EnglishText>
       <Notes/>
       <Id>291</Id>
@@ -2571,8 +2571,8 @@ Recovers 8% HP</EnglishText>
       <PointerOffset>8216</PointerOffset>
       <JapaneseText>実は果物ではなく野菜に分類される食材。
 皮の表面に黒い斑点が浮かんだら完熟の証</JapaneseText>
-      <EnglishText>An ingredient that is classified as vegetable, not fruit.
-When a black speck surfaces on its tip, it is sign of its maturity.</EnglishText>
+      <EnglishText>An ingredient that should really be a vegetable, not
+a fruit. The black spots on its rind show when it's ripe.</EnglishText>
       <Notes/>
       <Id>293</Id>
       <Status>Editing</Status>
@@ -2581,7 +2581,7 @@ When a black speck surfaces on its tip, it is sign of its maturity.</EnglishText
       <PointerOffset>8220</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 8% EBG</EnglishText>
       <Notes/>
       <Id>294</Id>
@@ -2599,8 +2599,8 @@ Recovers 8% EBG</EnglishText>
       <PointerOffset>8300</PointerOffset>
       <JapaneseText>程よい酸味と甘みを楽しめる黄色い果実。
 生肉と一緒に調理すると肉を柔らかくする効果もある</JapaneseText>
-      <EnglishText>A yellow fruit with an enjoyable mix of sour and sweet.
-It can be used as a tenderized for the meat.</EnglishText>
+      <EnglishText>A yellow fruit with just the right balance of tangy and
+sweet. Works as a tenderizer when cooked with meat.</EnglishText>
       <Notes/>
       <Id>296</Id>
       <Status>Editing</Status>
@@ -2609,7 +2609,7 @@ It can be used as a tenderized for the meat.</EnglishText>
       <PointerOffset>8304</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ、ＥＢＧ６％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 6% HP, 6% EBG</EnglishText>
       <Notes/>
       <Id>297</Id>
@@ -2627,8 +2627,8 @@ Recovers 6% HP, 6% EBG</EnglishText>
       <PointerOffset>8384</PointerOffset>
       <JapaneseText>ライスやブレッドと並ぶ、主食の一つ。
 茹でて色々なソースをかけて食べるのが定番</JapaneseText>
-      <EnglishText>It's a staple food, just like rice and bread.
-Commonly eaten with additional sauces.</EnglishText>
+      <EnglishText>One of the staple foods, along with rice and bread.
+It's usually eaten boiled and covered in sauce.</EnglishText>
       <Notes/>
       <Id>299</Id>
       <Status>Editing</Status>
@@ -2637,7 +2637,7 @@ Commonly eaten with additional sauces.</EnglishText>
       <PointerOffset>8388</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP</EnglishText>
       <Notes/>
       <Id>300</Id>
@@ -2655,8 +2655,8 @@ Recovers 5% HP</EnglishText>
       <PointerOffset>8468</PointerOffset>
       <JapaneseText>程よい脂身が美味しい獣のお肉。
 焼くと香ばしい香りが広がる</JapaneseText>
-      <EnglishText>Very delicious meat obtained from beasts.
-It has a fragrant smell if it's cooked.</EnglishText>
+      <EnglishText>An animal meat with just the right amount of fattiness.
+Releases a fragrant aroma when fried or grilled.</EnglishText>
       <Notes/>
       <Id>302</Id>
       <Status>Editing</Status>
@@ -2665,7 +2665,7 @@ It has a fragrant smell if it's cooked.</EnglishText>
       <PointerOffset>8472</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP</EnglishText>
       <Notes/>
       <Id>303</Id>
@@ -2683,8 +2683,8 @@ Recovers 5% HP</EnglishText>
       <PointerOffset>8552</PointerOffset>
       <JapaneseText>一口サイズの粒が集まって房をつくっている果物。
 ジュースやワイン等によく利用される</JapaneseText>
-      <EnglishText>A bunch of many grapes.
-It is often used for the juice and wine.</EnglishText>
+      <EnglishText>A bite-sized fruit that comes in large bunches.
+Great for making juice, wine, etc.</EnglishText>
       <Notes/>
       <Id>305</Id>
       <Status>Editing</Status>
@@ -2693,7 +2693,7 @@ It is often used for the juice and wine.</EnglishText>
       <PointerOffset>8556</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ１０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 10% EBG</EnglishText>
       <Notes/>
       <Id>306</Id>
@@ -2711,8 +2711,8 @@ Recovers 10% EBG</EnglishText>
       <PointerOffset>8636</PointerOffset>
       <JapaneseText>小麦粉を練った生地を発酵させた後、焼いた食品。
 中はふわっと、外はカリカリ</JapaneseText>
-      <EnglishText>You can get this by preparing flour and baking it.
-The inside is soft, but the outside is crunchy.</EnglishText>
+      <EnglishText>A food made from kneaded and yeasted flour.
+The inside is fluffy, but the outside is crunchy.</EnglishText>
       <Notes/>
       <Id>308</Id>
       <Status>Editing</Status>
@@ -2721,7 +2721,7 @@ The inside is soft, but the outside is crunchy.</EnglishText>
       <PointerOffset>8640</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>309</Id>
@@ -2739,8 +2739,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>8720</PointerOffset>
       <JapaneseText>鉄分たっぷりな紫色の果物。
 一粒口に入れれば、泣いていた子供もにっこり</JapaneseText>
-      <EnglishText>A purple fruit rich in iron.
-Children who put too many on their mouth at once cry.</EnglishText>
+      <EnglishText>A purple fruit jam-packed with iron. Just
+one is enough to make a crying child grin.</EnglishText>
       <Notes/>
       <Id>311</Id>
       <Status>Editing</Status>
@@ -2749,7 +2749,7 @@ Children who put too many on their mouth at once cry.</EnglishText>
       <PointerOffset>8724</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％、ＥＢＧ１０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP, 10% EBG</EnglishText>
       <Notes/>
       <Id>312</Id>
@@ -2767,8 +2767,8 @@ Recovers 5% HP, 10% EBG</EnglishText>
       <PointerOffset>8804</PointerOffset>
       <JapaneseText>しっかりとした肉のうま味が特徴の獣のお肉。
 調理法が豊富で、繊細な味わいが楽しめる</JapaneseText>
-      <EnglishText>Tasty meat obtained from beasts.
-However it is cooked, it is very enjoyable.</EnglishText>
+      <EnglishText>An animal meat with a particularly hearty umami. It can be
+prepared, and its subtle flavors enjoyed, in many ways.</EnglishText>
       <Notes/>
       <Id>314</Id>
       <Status>Editing</Status>
@@ -2777,7 +2777,7 @@ However it is cooked, it is very enjoyable.</EnglishText>
       <PointerOffset>8808</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP</EnglishText>
       <Notes/>
       <Id>315</Id>
@@ -2795,8 +2795,8 @@ Recovers 5% HP</EnglishText>
       <PointerOffset>8888</PointerOffset>
       <JapaneseText>海のお肉とも称される水棲生物から獲れる食材。
 鮮度が命！</JapaneseText>
-      <EnglishText>Meat that is gotten from sea creatures.
-Freshness is life!</EnglishText>
+      <EnglishText>An ingredient known as seafood, but also
+found in freshwater. Always have it fresh!</EnglishText>
       <Notes/>
       <Id>317</Id>
       <Status>Editing</Status>
@@ -2805,7 +2805,7 @@ Freshness is life!</EnglishText>
       <PointerOffset>8892</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ、ＥＢＧ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP, EBG</EnglishText>
       <Notes/>
       <Id>318</Id>
@@ -2823,8 +2823,8 @@ Recovers 5% HP, EBG</EnglishText>
       <PointerOffset>8972</PointerOffset>
       <JapaneseText>マンゴスチン！マンゴスチン！
 その素敵な響きはあなたをトリコに……</JapaneseText>
-      <EnglishText>Mangosteen! Mangosteen!
-Such wonderfull sound...</EnglishText>
+      <EnglishText>Mangosteen! Mangosteen! Soon,
+you too will sing its praises...</EnglishText>
       <Notes/>
       <Id>320</Id>
       <Status>Editing</Status>
@@ -2833,7 +2833,7 @@ Such wonderfull sound...</EnglishText>
       <PointerOffset>8976</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ７％、ＥＢＧ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 7% HP, 8% EBG</EnglishText>
       <Notes/>
       <Id>321</Id>
@@ -2851,8 +2851,8 @@ Recovers 7% HP, 8% EBG</EnglishText>
       <PointerOffset>9056</PointerOffset>
       <JapaneseText>遥か東の国より伝来した貴重な調味料。
 その味は、あなたをきっとミソミソに……</JapaneseText>
-      <EnglishText>Very valuable in the country of the east.
-The taste sure is... miso-like...</EnglishText>
+      <EnglishText>A seasoning ingredient imported from the
+far east. Come, partake of its flavor...</EnglishText>
       <Notes/>
       <Id>323</Id>
       <Status>Editing</Status>
@@ -2861,7 +2861,7 @@ The taste sure is... miso-like...</EnglishText>
       <PointerOffset>9060</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 50% HP</EnglishText>
       <Notes/>
       <Id>324</Id>
@@ -2879,8 +2879,8 @@ Recovers 50% HP</EnglishText>
       <PointerOffset>9140</PointerOffset>
       <JapaneseText>栄養豊富な白い液体。
 風呂上りの一杯は、言葉に表せない程のおいしさ</JapaneseText>
-      <EnglishText>Nutritious white liquid.
-It is very delicious.</EnglishText>
+      <EnglishText>A highly nutritious white liquid. A cup drank
+right after a bath is too delicious for words.</EnglishText>
       <Notes/>
       <Id>326</Id>
       <Status>Editing</Status>
@@ -2889,7 +2889,7 @@ It is very delicious.</EnglishText>
       <PointerOffset>9144</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% EBG</EnglishText>
       <Notes/>
       <Id>327</Id>
@@ -2907,8 +2907,8 @@ Recovers 3% EBG</EnglishText>
       <PointerOffset>9224</PointerOffset>
       <JapaneseText>水分を多く含んだ、大きな果実。
 噛まずに食べられる程やわらかい</JapaneseText>
-      <EnglishText>Big fruits abundant in moisture.
-It is so soft you can eat it without biting.</EnglishText>
+      <EnglishText>A very large fruit, and highly juicy. So
+soft you can eat it without chewing.</EnglishText>
       <Notes/>
       <Id>329</Id>
       <Status>Editing</Status>
@@ -2917,7 +2917,7 @@ It is so soft you can eat it without biting.</EnglishText>
       <PointerOffset>9228</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ２０％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 20% EBG</EnglishText>
       <Notes/>
       <Id>330</Id>
@@ -2935,8 +2935,8 @@ Recovers 20% EBG</EnglishText>
       <PointerOffset>9308</PointerOffset>
       <JapaneseText>米を炊いて作る、主食の定番。
 つやつやと輝き、様々な料理と合う</JapaneseText>
-      <EnglishText>The most standard type of food.
-It can be used in a great variety of meals.</EnglishText>
+      <EnglishText>The standard staple, pre-cooked. Its
+glossy sheen pairs well with many dishes.</EnglishText>
       <Notes/>
       <Id>332</Id>
       <Status>Editing</Status>
@@ -2945,7 +2945,7 @@ It can be used in a great variety of meals.</EnglishText>
       <PointerOffset>9312</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP</EnglishText>
       <Notes/>
       <Id>333</Id>
@@ -2963,8 +2963,8 @@ Recovers 3% HP</EnglishText>
       <PointerOffset>9392</PointerOffset>
       <JapaneseText>甘さと酸味のバランスが絶品の果物。
 シャキシャキとした歯ごたえがたまらない</JapaneseText>
-      <EnglishText>The balance of sweet and acid make this unique.
-The crispy texture makes it irresistable.</EnglishText>
+      <EnglishText>A fruit with a masterful balance of sweet
+and tart. Its crispness is irresistible.</EnglishText>
       <Notes/>
       <Id>335</Id>
       <Status>Editing</Status>
@@ -2973,7 +2973,7 @@ The crispy texture makes it irresistable.</EnglishText>
       <PointerOffset>9396</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% EBG</EnglishText>
       <Notes/>
       <Id>336</Id>
@@ -2991,8 +2991,8 @@ Recovers 3% EBG</EnglishText>
       <PointerOffset>9476</PointerOffset>
       <JapaneseText>鮮やかな緑色をした食材。
 葉の部分をサラダにするとおいしい</JapaneseText>
-      <EnglishText>Ingredient of vivid green color.
-It is what brings the green color to a salad.</EnglishText>
+      <EnglishText>An ingredient of vibrant green.
+Its leaves are quite tasty in salad.</EnglishText>
       <Notes/>
       <Id>338</Id>
       <Status>Editing</Status>
@@ -3001,7 +3001,7 @@ It is what brings the green color to a salad.</EnglishText>
       <PointerOffset>9480</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ５％、ＥＢＧ３％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% HP, 3% EBG</EnglishText>
       <Notes/>
       <Id>339</Id>
@@ -3019,8 +3019,8 @@ Recovers 5% HP, 3% EBG</EnglishText>
       <PointerOffset>9560</PointerOffset>
       <JapaneseText>主に果汁を利用する食材。
 その酸味が料理のうまさを引き立てる</JapaneseText>
-      <EnglishText>A ingredient that is majorly used due to its juice.
-The acidity flavour can make good dishes.</EnglishText>
+      <EnglishText>An ingredient mainly used for its juice.
+Its sour tang brings out a dish's flavor.</EnglishText>
       <Notes/>
       <Id>341</Id>
       <Status>Editing</Status>
@@ -3029,7 +3029,7 @@ The acidity flavour can make good dishes.</EnglishText>
       <PointerOffset>9564</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ８％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 8% EBG</EnglishText>
       <Notes/>
       <Id>342</Id>
@@ -3047,8 +3047,8 @@ Recovers 8% EBG</EnglishText>
       <PointerOffset>9644</PointerOffset>
       <JapaneseText>豆の加工品。
 ぷるるんとした食感、とても崩れやすいので注意</JapaneseText>
-      <EnglishText>An ingredient made from processed beans.
-Not too solid, and can be chewed easily.</EnglishText>
+      <EnglishText>Made from processed beans. Its wobbly
+consistency is easily ruined, so be careful.</EnglishText>
       <Notes/>
       <Id>344</Id>
       <Status>Editing</Status>
@@ -3057,7 +3057,7 @@ Not too solid, and can be chewed easily.</EnglishText>
       <PointerOffset>9648</PointerOffset>
       <JapaneseText>料理の追加効果
 ＥＢＧ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 5% EBG</EnglishText>
       <Notes/>
       <Id>345</Id>
